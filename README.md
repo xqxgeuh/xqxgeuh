@@ -1,21 +1,9 @@
-# Shayne Cassin's GitHub Haven
-A repository for the pursuit of perfection, one line of code at a time.
+# Shayne Cassin's Cosmic Code Cove
 
-Role: Corporate Security Producer
-Expertise: Java, with forays into Tailwind, Flutter, Svelte, Firebase, and Azure.
+Welcome to my nebula of notes, where the cosmos of code converges. I'm xqxgeuh, a Future Applications Executive, navigating the galaxy of technology with a focus on overriding cards – the ultimate celestial ballet.
 
-Vibe: Clean code enthusiast. The fewer lines, the better.
+In this corner of the universe, I champion clean code, the foundation of any worthwhile endeavor. My tools of choice are Kotlin, MongoDB, Firebase, and Docker, the celestial bodies that guide my cosmic journey.
 
-Focus: Overriding interfaces. A never-ending quest for elegance.
+My motto? 'Organic value-added ability.' I strive to cultivate an environment where innovative solutions can flourish.
 
-Motto: Persevering eco-centric methodology. Less waste, more results.
-
-## Recent Contributions
-- [Security Audit Framework](https://github.com/xqxgeuh/security-audit-framework)
-- [Eco-Centric CI/CD Pipeline](https://github.com/xqxgeuh/eco-centric-cicd)
-
-## Let's Connect
-Twitter: @xqxgeuh
-LinkedIn: linkedin.com/in/xqxgeuh
-
-
+Let's chart the unknown together!
