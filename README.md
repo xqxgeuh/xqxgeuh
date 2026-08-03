@@ -1,9 +1,16 @@
-# Shayne Cassin's Cosmic Code Cove
+# xqxgeuh's nocturnal machinations
 
-Welcome to my nebula of notes, where the cosmos of code converges. I'm xqxgeuh, a Future Applications Executive, navigating the galaxy of technology with a focus on overriding cards – the ultimate celestial ballet.
+A district paradigm specialist, prowling the digital shadows under the guise of xqxgeuh.
 
-In this corner of the universe, I champion clean code, the foundation of any worthwhile endeavor. My tools of choice are Kotlin, MongoDB, Firebase, and Docker, the celestial bodies that guide my cosmic journey.
+### By Day and Night
+Mainly Java, with a toolkit that includes PostgreSQL, Next.js, Tailwind, Kubernetes, Docker, and Flutter.
 
-My motto? 'Organic value-added ability.' I strive to cultivate an environment where innovative solutions can flourish.
+### Vibe
+Night owl, fueled by the hum of microchip production.
 
-Let's chart the unknown together!
+### Focus
+Generating microchips, one line of code at a time.
+
+### Motto
+"Public-key interactive matrix" - a mantra for the digital nocturne.
+
