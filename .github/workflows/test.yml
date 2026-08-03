@@ -1,0 +1,15 @@
+```yml
+name: Go Test
+on:
+  push:
+    paths:
+      - '**/*.go'
+jobs:
+  go-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Go Test
+        run: go test ./...
+```
