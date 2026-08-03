@@ -1,25 +1,21 @@
-# Shayne Cassin's Realm of Overdrive
+# Shayne Cassin's GitHub Haven
+A repository for the pursuit of perfection, one line of code at a time.
 
-Coffee fuels my obsession with optimally capacitated systems. 
+Role: Corporate Security Producer
+Expertise: Java, with forays into Tailwind, Flutter, Svelte, Firebase, and Azure.
 
-## Current State of the Universe
+Vibe: Clean code enthusiast. The fewer lines, the better.
 
-- TypeScript: my reality check
-- Next.js: the portal to innovation
-- Azure: the celestial canvas
-- SQL: the ancient tome
-- Redis: the cryptic whisper
+Focus: Overriding interfaces. A never-ending quest for elegance.
 
-## Vibe
+Motto: Persevering eco-centric methodology. Less waste, more results.
 
-Coffee addict, with a penchant for midnights and benchmarking.
+## Recent Contributions
+- [Security Audit Framework](https://github.com/xqxgeuh/security-audit-framework)
+- [Eco-Centric CI/CD Pipeline](https://github.com/xqxgeuh/eco-centric-cicd)
 
-## Focus
+## Let's Connect
+Twitter: @xqxgeuh
+LinkedIn: linkedin.com/in/xqxgeuh
 
-Overriding capacitors, one circuit at a time.
 
-## Motto
-
-'Profit-focused 24 hour benchmark'
-
-May the capacitors be ever in your favor.
