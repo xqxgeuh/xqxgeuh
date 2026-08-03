@@ -1,17 +1,25 @@
-# xqxgeuh's Intuitive Realm
+# Shayne Cassin's Realm of Overdrive
 
-Welcome to my domain of UI/UX serenity. I'm Shayne Cassin, International Operations Director, and aficionado of Swift's elegance.
+Coffee fuels my obsession with optimally capacitated systems. 
 
-My tools are diverse: React's dynamism, Azure's scalability, Firebase's simplicity, and Next.js's speed.
+## Current State of the Universe
 
-In this realm, I breathe life into applications with a focus on bypassing drivers – streamlining complexity.
+- TypeScript: my reality check
+- Next.js: the portal to innovation
+- Azure: the celestial canvas
+- SQL: the ancient tome
+- Redis: the cryptic whisper
 
-My mantra? 'Intuitive coherent application.' This is my pursuit.
+## Vibe
 
-This is where the art meets the science.
+Coffee addict, with a penchant for midnights and benchmarking.
 
-## Projects: [Your Projects Here]
+## Focus
 
-## Contributing: [Contributing Guidelines]
+Overriding capacitors, one circuit at a time.
 
-# xqxgeuh's Realm
+## Motto
+
+'Profit-focused 24 hour benchmark'
+
+May the capacitors be ever in your favor.
